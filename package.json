@@ -1,0 +1,9 @@
+{
+  "name": "whois-application",
+  "version": "1.0.0",
+  "description": "WHOIS domain lookup application",
+  "scripts": {
+    "install": "cd backend && npm install",
+    "start": "cd backend && npm start"
+  }
+}
